@@ -15,5 +15,5 @@ Hii, I am Rajavardhan Galagali - B.Tech Student, keeping things simple and consi
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajavardhangalagali&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=rajavardhangalagali&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=rajavardhangalagali&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
